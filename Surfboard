@@ -1,5 +1,3 @@
-#!MANAGED-CONFIG http://127.0.0.1:25500/sub?target=surfboard&url=C:\s-output.txt interval=86400 strict=false
-
 [General]
 loglevel = notify
 interface = 127.0.0.1
